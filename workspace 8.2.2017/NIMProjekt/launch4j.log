@@ -1,0 +1,26 @@
+
+
+Version:	3.9
+CmdLine:	D:\Informatik\in123\workspace 8.2.2017\NIMProjekt\NIM.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Informatik\in123\workspace 8.2.2017\NIMProjekt\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_101
+Check launcher:	C:\Program Files\Java\jre1.8.0_101\bin\javaw.exe (OK)
+Match:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_102
+Check launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe (OK)
+Match:		1.8.0_102
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_102
+Ignore:		1.8.0_102
+Runtime used:	1.8.0_102 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe
+Launcher args:	-jar "D:\Informatik\in123\workspace 8.2.2017\NIMProjekt\NIM.exe"
+Args length:	64/32768 chars
+Exit code:	0
